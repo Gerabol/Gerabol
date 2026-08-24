@@ -1,4 +1,4 @@
-# Bem vindo, eu sou Geraldo Valencia
+# 👤 Bem-vindo, eu sou Geraldo Valencia
 
 **Gerente de Sistemas • Programador • Sistemas Governamentais**
 
@@ -28,11 +28,11 @@ Tenho mais de **10 anos de experiência com sistemas financeiros governamentais*
 
 Durante essa trajetória, participei de importantes marcos do sistema, incluindo:
 
-- **Adequação ao PCASP — 2014/2015**
-- **Modernização para a versão Web SIAF v4.0 — 2020**
-- **Adequação à Portaria STN nº 710/2021**
-- **Adequação ao Decreto nº 10.540/2020 — SIAFIC**
-- **Adequações relacionadas à Nova Lei de Licitações — Lei nº 14.133/2021**
+* **Adequação ao PCASP — 2014/2015**
+* **Modernização para a versão Web SIAF v4.0 — 2020**
+* **Adequação à Portaria STN nº 710/2021**
+* **Adequação ao Decreto nº 10.540/2020 — SIAFIC**
+* **Adequações relacionadas à Nova Lei de Licitações — Lei nº 14.133/2021**
 
 Minha experiência envolve não apenas tecnologia, mas também conhecimento de **regras de negócio, execução da despesa, processos financeiros, legislação e necessidades da administração pública**.
 
@@ -42,36 +42,25 @@ Minha experiência envolve não apenas tecnologia, mas também conhecimento de *
 
 ### Sistemas Legados
 
-- Natural
-- Adabas
-- Natural Ajax
-- Mainframe
-- Linux
+<p>
+<img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
+</p>
+
+**Natural • Adabas • Natural Ajax • Mainframe**
 
 ### Tecnologias Modernas
 
-- Java
-- Spring Boot
-- React
-- TypeScript
-- PostgreSQL
-- Docker
-- Docker Compose
-- WebSocket
-- PWA
-- Tauri
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,typescript,postgres,docker,tauri" height="50" alt="Java, Spring Boot, React, TypeScript, PostgreSQL, Docker e Tauri" />
+</p>
 
 ### Desenvolvimento e Infraestrutura
 
-- Git
-- GitHub
-- GitLab
-- Maven
-- APIs REST
-- Integração de sistemas
-- Bancos de dados hierárquico
-- Bancos de dados relacionais
-- Arquiteturas híbridas e modernização de sistemas legados
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,docker,linux" height="50" alt="Git, GitHub, GitLab, Maven, Docker e Linux" />
+</p>
+
+**APIs REST • WebSocket • PWA • Integração de sistemas • Bancos de dados hierárquicos • Bancos de dados relacionais • Arquiteturas híbridas**
 
 ---
 
@@ -81,7 +70,7 @@ Uma parte importante da minha experiência profissional está relacionada à evo
 
 Acredito que modernizar um sistema crítico não significa simplesmente substituir sua tecnologia.
 
-> **Modernizar um sistema legado é trabalhar em prol da evolução de uma arquitetura existente, buscando mantar as regras de negócio e os dados existentes, enquanto construímos uma plataforma preparada sustentar uma solução durante anos.**
+> **Modernizar um sistema legado é conduzir a evolução de uma arquitetura existente, preservando as regras de negócio e os dados construídos ao longo dos anos, enquanto desenvolvemos uma plataforma moderna, sustentável e preparada para manter a solução por muitos anos.**
 
 Minha experiência com **Natural/Adabas, Mainframe e Linux**, combinada com tecnologias como **Java, Spring Boot, React e PostgreSQL**, permite trabalhar justamente nessa fronteira entre o legado e as arquiteturas atuais.
 
@@ -97,21 +86,25 @@ O primeiro produto é o **Konnix Chat**, uma plataforma de comunicação corpora
 
 **Stack:**
 
-`Java 21` `Spring Boot` `PostgreSQL` `React` `TypeScript` `WebSocket` `PWA` `Docker` `Tauri`
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,typescript,docker,tauri" height="50" alt="Stack Konnix" />
+</p>
+
+`WebSocket` • `PWA`
 
 ---
 
 ## 🎯 Áreas de Interesse
 
-- 🏛️ Sistemas governamentais
-- 💰 Gestão financeira pública
-- 🧱 Modernização de sistemas legados
-- 🏗️ Arquitetura e evolução de sistemas
-- 🔌 Integração de sistemas
-- 🤖 Inteligência Artificial aplicada ao desenvolvimento
-- 📊 Dados e sistemas corporativos
-- 🐳 Docker e infraestrutura
-- 🌐 Aplicações web e multiplataforma
+* 🏛️ Sistemas governamentais
+* 💰 Gestão financeira pública
+* 🧱 Modernização de sistemas legados
+* 🏗️ Arquitetura e evolução de sistemas
+* 🔌 Integração de sistemas
+* 🤖 Inteligência Artificial aplicada ao desenvolvimento
+* 📊 Dados e sistemas corporativos
+* 🐳 Docker e infraestrutura
+* 🌐 Aplicações web e multiplataforma
 
 ---
 
@@ -123,9 +116,11 @@ Minha experiência profissional me colocou em uma posição que considero especi
 
 Conheço o legado, as regras de negócio e os desafios da administração pública, mas também trabalho com tecnologias modernas para construir a próxima geração dessas soluções.
 
-**Do Natural ao Java.  
-Do legado ao moderno.  
-Da programação à gestão de sistemas críticos.**
+**Do Natural ao Java.**
+
+**Do legado ao moderno.**
+
+**Da programação à gestão de sistemas críticos.**
 
 ---
 
